@@ -19,6 +19,8 @@ from botbuilder.schema import Activity, ActivityTypes
 from bots import QnABot
 from config import DefaultConfig
 
+
+
 CONFIG = DefaultConfig()
 
 # Create adapter.
